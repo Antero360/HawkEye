@@ -1,1 +1,3 @@
 # HawkEye
+
+(Oct 2021) HawkEye is an application to monitor unauthorized use of your machine while away. While running, HawkEye will monitor your machine for an internet connection, generate a log of your machine's name, private and public, as well as geolocation and send off an email with this data to the email provided at installation (yes, this has an installation setup attached to it). Should there be no internet connection, the data will be saved off in a log file. Every email also contains the file paths of the offline log data and an error log for your reference. The error log should be emailed to me, the developer, for any patches.
